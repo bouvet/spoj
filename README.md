@@ -1,4 +1,4 @@
-## SPOJ
+## Sphere Online Judge
 Solutions for the SPOJ competition at Bouvet.
 
 ### How to submit a problem to SPOJ:
