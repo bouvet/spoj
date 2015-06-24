@@ -17,4 +17,4 @@ Simply create a folder with your SPOJ account name. Put your solutions into a si
 
 ## Meetings:
 
-**24. June 2015**: [BITMAP](http://www.spoj.com/problems/BITMAP/) and [PLAIN](http://www.spoj.com/problems/PLAIN/) 
+**24. June 2015**: [BITMAP](http://www.spoj.com/problems/BITMAP/) and [PALIN](http://www.spoj.com/problems/PALIN/) 
