@@ -1,7 +1,7 @@
 # SPOJ
 Solutions for the SPOJ competition at Bouvet.
 
-# How to submit a problem to SPOJ:
+## How to submit a problem to SPOJ:
 
 Every user requires an account at [SPOJ](http://www.spoj.com) which is free. After signing up, one needs to choose a problem and to write a solution. All input is read from *standard input*, all results need to be written to *standard output*.
 
@@ -11,6 +11,6 @@ Every problem offers an example file. For testing purposes, it often makes sense
 
 SPOJ does not expose error messages in order to not allow backwards engineering of the actual data. Debugging can therefore be tricky. Read the description to find potential special cases that you did not cover. Consider tweaking the sample input data for special problem sizes (like zero).
 
-# How to submit to this repository:
+## How to submit to this repository:
 
 Simply create a folder with your SPOJ account name. Put your solutions into a simple Java project where every problem is contained in its own package. It does not really matter, though, the solutions should just be browseable on GitHub such that we can discuss solutions. We can then lookup and find the results of your solutions on the SPOJ website. Do not look at other's solutions or googled solutions before you have solved a problem yourself. SPOJ is about thinking about a problem.
