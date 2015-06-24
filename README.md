@@ -13,7 +13,7 @@ SPOJ does not expose error messages in order to not allow backwards engineering 
 
 ### How to submit to this repository:
 
-Simply create a folder with your SPOJ account name. Put your solutions into a simple Java project where every problem is contained in its own package. It does not really matter, though, the solutions should just be browseable on GitHub such that we can discuss solutions. We can then lookup and find the results of your solutions on the SPOJ website. Do not look at other's solutions or googled solutions before you have solved a problem yourself. SPOJ is about thinking about a problem.
+Simply create a folder with your SPOJ account name. Put your solutions into a simple project where every problem is contained in its own folder. The exact structure does not really matter, though, the solutions should just be browseable on GitHub such that we can discuss them afterwards. We can then lookup and find the results of your solutions on the SPOJ website. Do not look at other's solutions or googled solutions before you have solved a problem yourself. SPOJ is about thinking about a problem.
 
 ## Meetings:
 
